@@ -1,2 +1,3 @@
 v0.1.evil: Added text, shell 
 v0.2.÷: Added more characters for user interface
+v0.3.¥: Made text more clear + 480 X 480 Res
