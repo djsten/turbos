@@ -7,7 +7,7 @@ made by like me and the people that made the extensions
 evil: like really buggy or unfinished
 ÷: prerelease
 
-#COMMANDS
+# COMMANDS
 
 ignore ()*[]
 
@@ -42,9 +42,9 @@ update (dcb)
 install (dcb)
 
 
-#DCB INSTRUCTIONS
+# DCB INSTRUCTIONS
 
-Variables:
+# Variables:
 
 DCB_restart: Restarts the lists, inputs, and sprite
 
@@ -52,9 +52,9 @@ DCB_run: use "strue" as it is a broadcast with no broadcast option
 
 DCB_input: the input, use clipboard or file for this
 
-Options:
+# Options:
 
-[KEY]
+# [KEY]
 
 [] -> Note
 () -> Usage
