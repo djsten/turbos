@@ -1,0 +1,1 @@
+showoutput  print "hi im so cool"  global% "dcb_IMPORT" "hi"  wait 1  print "turbos tuff"  wait 2  hideoutput
