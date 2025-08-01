@@ -1,3 +1,6 @@
 v0.1.evil: Added text, shell 
 v0.2.÷: Added more characters for user interface
 v0.3.¥: Made text more clear + 480 X 480 Res
+v0.4.evil: Added more customization
+v0.5.evil: Added more commands and characters in text
+v0.6.÷: Added support for dcb (programming lang)
